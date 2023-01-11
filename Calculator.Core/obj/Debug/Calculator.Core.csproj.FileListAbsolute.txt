@@ -1,0 +1,8 @@
+C:\Users\DEVPC1\Desktop\MyGitHub\Calculator\Calculator.Core\bin\Debug\Calculator.Core.exe.config
+C:\Users\DEVPC1\Desktop\MyGitHub\Calculator\Calculator.Core\bin\Debug\Calculator.Core.exe
+C:\Users\DEVPC1\Desktop\MyGitHub\Calculator\Calculator.Core\bin\Debug\Calculator.Core.pdb
+C:\Users\DEVPC1\Desktop\MyGitHub\Calculator\Calculator.Core\obj\Debug\Calculator.Core.csproj.AssemblyReference.cache
+C:\Users\DEVPC1\Desktop\MyGitHub\Calculator\Calculator.Core\obj\Debug\Calculator.Core.csproj.SuggestedBindingRedirects.cache
+C:\Users\DEVPC1\Desktop\MyGitHub\Calculator\Calculator.Core\obj\Debug\Calculator.Core.csproj.CoreCompileInputs.cache
+C:\Users\DEVPC1\Desktop\MyGitHub\Calculator\Calculator.Core\obj\Debug\Calculator.Core.exe
+C:\Users\DEVPC1\Desktop\MyGitHub\Calculator\Calculator.Core\obj\Debug\Calculator.Core.pdb
